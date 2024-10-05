@@ -1,2 +1,2 @@
 # UAS Software Development
-UAS software development involves the design, development, and integration of software for unmanned aircraft systems (UAS). UAS software is important for the safe and efficient operation of the aircraft. Some UAS software development tasks include: Custom software, Analyzing software, hardware integration, Researching and testing.
+UAS Software Development involves the design, development, and hardware integration of Unmanned Aircraft System(UAS). UAS software is important for the safe and efficient operation of the autonomous vehicle. Some UAS software development tasks includes: mission control customziation , analyzing staticistics, hardware integration, researching and testing.
